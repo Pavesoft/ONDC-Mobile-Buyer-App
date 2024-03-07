@@ -340,7 +340,7 @@ const makeStyles = (colors: any) =>
       justifyContent: 'center',
       alignItems: 'center',
     },
-    searchWidgetProps: {backgroundColor: colors.white},
+    searchWidgetProps: {backgroundColor: colors.primary},
     button: {
       borderRadius: 8,
     },
