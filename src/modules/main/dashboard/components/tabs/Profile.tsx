@@ -32,6 +32,8 @@ const Profile = () => {
 
   const navigateToComplaints = () => navigation.navigate('Complaints');
 
+  const navigateToChooseLanguage = () => navigation.navigate('ChooseLanguage');
+
   const menu = [
     {
       title: t('Profile.My Profile'),
@@ -46,8 +48,8 @@ const Profile = () => {
       action: navigateToComplaints,
     },
     {
-      title: t('Profile.Complaints'),
-      action: navigateToComplaints,
+      title: t('Profile.Choose Language'),
+      action: navigateToChooseLanguage,
     },
     {
       title: t('Profile.Logout'),

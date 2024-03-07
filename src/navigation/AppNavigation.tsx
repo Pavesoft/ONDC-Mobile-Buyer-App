@@ -20,6 +20,7 @@ import BrandDetails from '../modules/main/provider/BrandDetails';
 import SubCategoryDetails from '../modules/main/subCategory/SubCategoryDetails';
 import Outlets from '../modules/main/provider/Outlets';
 import Orders from '../modules/main/order/list/Orders';
+import ChooseLanguage from '../modules/main/profile/ChooseLanguage';
 import CancelOrder from '../modules/main/order/details/CancelOrder';
 import SearchProducts from '../modules/main/dashboard/SearchProducts';
 import PaymentMethods from '../modules/main/order/details/PaymentMethods';
@@ -33,7 +34,7 @@ import StoresNearMe from '../modules/main/stores/StoresNearMe';
 import ShopByCategory from '../modules/main/category/ShopByCategory';
 import {theme} from '../utils/theme';
 import FeaturedCategories from '../modules/main/category/FeaturedCategories';
-import { useTranslation } from 'react-i18next';
+import {useTranslation} from 'react-i18next';
 
 const Stack = createStackNavigator();
 
@@ -122,6 +123,14 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           component={Profile}
           options={{
             title: 'My Profile',
+          }}
+        />
+
+        <Stack.Screen
+          name="ChooseLanguage"
+          component={ChooseLanguage}
+          options={{
+            title: 'Choose Language',
           }}
         />
 
