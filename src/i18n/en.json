@@ -1,0 +1,34 @@
+{
+    "Home": {
+        "Home": "Home",
+        "Featured Categories": "Featured Categories",
+        "View All": "View All",
+        "Stores Near Me": "Stores Near Me",
+        "Deliver to": "Deliver to",
+        "Search": "Search"
+    },
+    "List": {
+        "List": "List",
+        "Coming soon": "Coming soon"
+    },
+    "Cart": {
+        "Cart": "Cart",
+        "My Cart": "My Cart",
+        "Customise": "Customise",
+        "Delivery Address": "Delivery Address",
+        "Change": "Change",
+        "View Delivery Options": "View Delivery Options",
+        "items": "items"
+    },
+    "Profile": {
+        "Profile": "Profile",
+        "My Profile": "My Profile",
+        "Order History": "Order History",
+        "Complaints": "Complaints",
+        "Logout": "Logout"
+    },
+
+    "Address List": {
+        "Delivery Address": "Delivery Address",
+    }
+}
