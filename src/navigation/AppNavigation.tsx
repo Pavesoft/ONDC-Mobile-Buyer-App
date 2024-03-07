@@ -33,6 +33,7 @@ import StoresNearMe from '../modules/main/stores/StoresNearMe';
 import ShopByCategory from '../modules/main/category/ShopByCategory';
 import {theme} from '../utils/theme';
 import FeaturedCategories from '../modules/main/category/FeaturedCategories';
+import { useTranslation } from 'react-i18next';
 
 const Stack = createStackNavigator();
 
@@ -57,6 +58,7 @@ const headerStyle = {
  * @constructor
  */
 const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
+  const {t} = useTranslation();
   return (
     <NavigationContainer ref={navigationRef}>
       <Stack.Navigator>
@@ -89,7 +91,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="Cart"
           component={Cart}
           options={{
-            title: 'My Cart',
+            title: t('Cart.My Cart'),
           }}
         />
         <Stack.Screen
@@ -111,7 +113,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="AddressList"
           component={AddressList}
           options={{
-            title: 'Delivery Address',
+            title: t('Address List.Delivery Address'),
           }}
         />
 

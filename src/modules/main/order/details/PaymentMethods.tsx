@@ -4,8 +4,10 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import React from 'react';
 import {useSelector} from 'react-redux';
 import {useAppTheme} from '../../../../utils/theme';
+import { useTranslation } from 'react-i18next';
 
 const PaymentMethods = ({navigation}: {navigation: any}) => {
+  const {t} = useTranslation();
   const theme = useAppTheme();
   const styles = makeStyles(theme.colors);
   const {orderDetails} = useSelector(({orderReducer}) => orderReducer);
@@ -25,7 +27,7 @@ const PaymentMethods = ({navigation}: {navigation: any}) => {
       <View style={styles.pageContent}>
         <View style={styles.container}>
           <Text variant={'titleLarge'} style={styles.title}>
-            Delivery Address
+            {t('Delivery Address')}
           </Text>
           {!!location?.address?.name && (
             <Text variant={'bodyLarge'} style={styles.name}>

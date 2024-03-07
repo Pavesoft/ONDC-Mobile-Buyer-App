@@ -30,6 +30,7 @@
         "View Delivery Options": "डिलिवरी विकल्प देखें"
     },
     "Address List": {
-        "Delivery Address":"डिलिवरी का पता"
+        "Delivery Address":"डिलिवरी का पता",
+        "Add Address": "पता जोड़ें"
     }
 }
