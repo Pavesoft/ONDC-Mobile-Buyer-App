@@ -6,8 +6,10 @@ import {StackNavigationProp} from '@react-navigation/stack';
 import useLogoutUser from '../../../../../hooks/useLogoutUser';
 import {alertWithTwoButtons} from '../../../../../utils/alerts';
 import {useAppTheme} from '../../../../../utils/theme';
+import { useTranslation } from 'react-i18next';
 
 const Profile = () => {
+  const {t} = useTranslation();
   const theme = useAppTheme();
   const styles = makeStyles(theme.colors);
   const {clearDataAndLogout} = useLogoutUser();
@@ -32,19 +34,23 @@ const Profile = () => {
 
   const menu = [
     {
-      title: 'My Profile',
+      // title: 'My Profile',
+      title: t('Profile.My Profile'),
       action: navigateToProfile,
     },
     {
-      title: 'Order History',
+      // title: 'Order History',
+      title: t('Profile.Order History'),
       action: navigateToOrders,
     },
     {
-      title: 'Complaints',
+      // title: 'Complaints',
+      title: t('Profile.Complaints'),
       action: navigateToComplaints,
     },
     {
-      title: 'Logout',
+      // title: 'Logout',
+      title: t('Profile.Logout'),
       action: confirmLogout,
     },
   ];
@@ -53,7 +59,7 @@ const Profile = () => {
     <View style={styles.container}>
       <View style={styles.header}>
         <Text variant={'titleLarge'} style={styles.pageTitle}>
-          Profile
+          {t('Profile.Profile')}
         </Text>
       </View>
       <FlatList
