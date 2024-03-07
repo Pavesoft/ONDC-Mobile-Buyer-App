@@ -6,7 +6,7 @@ import {StackNavigationProp} from '@react-navigation/stack';
 import useLogoutUser from '../../../../../hooks/useLogoutUser';
 import {alertWithTwoButtons} from '../../../../../utils/alerts';
 import {useAppTheme} from '../../../../../utils/theme';
-import { useTranslation } from 'react-i18next';
+import {useTranslation} from 'react-i18next';
 
 const Profile = () => {
   const {t} = useTranslation();
@@ -34,22 +34,22 @@ const Profile = () => {
 
   const menu = [
     {
-      // title: 'My Profile',
       title: t('Profile.My Profile'),
       action: navigateToProfile,
     },
     {
-      // title: 'Order History',
       title: t('Profile.Order History'),
       action: navigateToOrders,
     },
     {
-      // title: 'Complaints',
       title: t('Profile.Complaints'),
       action: navigateToComplaints,
     },
     {
-      // title: 'Logout',
+      title: t('Profile.Complaints'),
+      action: navigateToComplaints,
+    },
+    {
       title: t('Profile.Logout'),
       action: confirmLogout,
     },
