@@ -1,36 +1,40 @@
 {
-
-    "Home": {
-        "Home": "होम",
-        "Featured Categories": "विशेष श्रेणियाँ",
-        "View All": "सभी को देखें",
-        "Stores Near Me": "मेरे आस-पास के स्टोर",
-        "Deliver to": "पहुंचा देना",
-        "Search": "खोज"
-    },
-    "List": {
-        "List": "सूची",
-        "Coming soon": "जल्द आ रहा है"
-    },
-    "Cart": {
-        "Cart": "कार्ट",
-        "My Cart": "कार्ट",
-        "Customise": "अनुकूलित करें",
-        "Delivery Address": "डिलिवरी का पता",
-        "Change": "बदलना",
-        "View Delivery Options": "डिलिवरी विकल्प देखें",
-        "items": "वस्तु"
-    },
-    "Profile": {
-        "Profile": "आप",
-        "My Profile": "मेरी प्रोफाइल",
-        "Order History": "ऑर्डर का इतिहास",
-        "Complaints": "शिकायतों",
-        "Logout": "लॉग आउट",
-        "View Delivery Options": "डिलिवरी विकल्प देखें"
-    },
-    "Address List": {
-        "Delivery Address":"डिलिवरी का पता",
-        "Add Address": "पता जोड़ें"
-    }
+  "Home": {
+    "Home": "होम",
+    "Featured Categories": "विशेष श्रेणियाँ",
+    "View All": "सभी को देखें",
+    "Stores Near Me": "मेरे आस-पास के स्टोर",
+    "Deliver to": "पहुंचा देना",
+    "Search": "खोज"
+  },
+  "List": {
+    "List": "सूची",
+    "Coming soon": "जल्द आ रहा है"
+  },
+  "Cart": {
+    "Cart": "कार्ट",
+    "My Cart": "कार्ट",
+    "Customise": "अनुकूलित करें",
+    "Delivery Address": "डिलिवरी का पता",
+    "Change": "बदलना",
+    "View Delivery Options": "डिलिवरी विकल्प देखें",
+    "items": "वस्तु"
+  },
+  "Profile": {
+    "Profile": "आप",
+    "My Profile": "मेरी प्रोफाइल",
+    "Order History": "ऑर्डर का इतिहास",
+    "Complaints": "शिकायतों",
+    "Choose Language": "भाषा चुनें",
+    "Logout": "लॉग आउट",
+    "View Delivery Options": "डिलिवरी विकल्प देखें"
+  },
+  "Choose Language": {
+    "Hindi": "हिंदी",
+    "English": "English"
+  },
+  "Address List": {
+    "Delivery Address": "डिलिवरी का पता",
+    "Add Address": "पता जोड़ें"
+  }
 }
