@@ -6,7 +6,7 @@ import List from './components/tabs/List';
 import Profile from './components/tabs/Profile';
 import DashboardCart from './components/tabs/Cart';
 import useCartItems from '../../../hooks/useCartItems';
-import { useTranslation } from 'react-i18next';
+import {useTranslation} from 'react-i18next';
 
 interface Dashboard {}
 
@@ -28,11 +28,11 @@ const Dashboard: React.FC<Dashboard> = () => {
         }}
         initialRouteName="Home"
         tabBar={props => <CustomTabBar {...props} />}>
-        <Tab.Screen name={t("Home.Home")} component={Home} />
-        <Tab.Screen name={t("List.List")} component={List} />
-        {/* <Tab.Screen name={t("Cart.Cart")} component={DashboardCart} /> */}
+        <Tab.Screen name={t('Home.Home')} component={Home} />
+        <Tab.Screen name={t('List.List')} component={List} />
+        {/* <Tab.Screen name={t('Cart.Cart')} component={DashboardCart} /> */}
         <Tab.Screen name="Cart" component={DashboardCart} />
-        <Tab.Screen name={t("Profile.Profile")} component={Profile} />
+        <Tab.Screen name={t('Profile.Profile')} component={Profile} />
       </Tab.Navigator>
     </>
   );

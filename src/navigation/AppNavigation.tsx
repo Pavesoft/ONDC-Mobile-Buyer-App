@@ -130,7 +130,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="ChooseLanguage"
           component={ChooseLanguage}
           options={{
-            title: 'Choose Language',
+            title: t('Choose Language.Choose Language'),
           }}
         />
 
@@ -245,21 +245,21 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="StoresNearMe"
           component={StoresNearMe}
           options={{
-            title: 'Stores Near me',
+            title: t('Stores Near me.Stores Near me'),
           }}
         />
         <Stack.Screen
           name="ShopByCategory"
           component={ShopByCategory}
           options={{
-            title: 'Shop by Category',
+            title: t('Product SubCategories.Shop by Category'),
           }}
         />
         <Stack.Screen
           name="FeaturedCategories"
           component={FeaturedCategories}
           options={{
-            title: 'Featured Categories',
+            title: t('Featured Categories.Featured Categories'),
           }}
         />
       </Stack.Navigator>

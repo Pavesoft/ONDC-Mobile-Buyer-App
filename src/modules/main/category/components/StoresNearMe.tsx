@@ -14,7 +14,7 @@ import {useAppTheme} from '../../../../utils/theme';
 import {saveStoresList} from '../../../../redux/stores/actions';
 import Store from '../../stores/components/Store';
 import SectionHeaderWithViewAll from '../../../../components/sectionHeaderWithViewAll/SectionHeaderWithViewAll';
-import { useTranslation } from 'react-i18next';
+import {useTranslation} from 'react-i18next';
 
 interface StoresNearMe {
   domain?: string;
