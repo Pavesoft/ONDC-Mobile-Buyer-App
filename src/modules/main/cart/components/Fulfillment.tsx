@@ -445,7 +445,7 @@ const makeStyles = (colors: any) =>
       borderRadius: 8,
       paddingVertical: 13,
       alignItems: 'center',
-      height: 44,
+      // height: 44,
     },
     buttonLabel: {
       color: colors.white,
