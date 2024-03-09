@@ -8,7 +8,7 @@ import {theme} from './src/utils/theme';
 import AppNavigation from './src/navigation/AppNavigation';
 import NetworkBanner from './src/components/network/NetworkBanner';
 import {getMultipleData} from './src/utils/storage';
-import "./src/i18n"
+import './src/i18n';
 
 const App = () => {
   const navigationRef = useRef<any>(null);

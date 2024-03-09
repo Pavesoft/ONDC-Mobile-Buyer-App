@@ -1,0 +1,119 @@
+{
+  "Home": {
+    "Home": "होम",
+    "Featured Categories": "वैशिष्ट्यीकृत श्रेणी",
+    "View All": "सर्व पहा",
+    "Stores Near Me": "माझ्या जवळची दुकाने",
+    "Deliver to": "पत्त्यावर पोहोचवा",
+    "Search": "शोधा"
+  },
+  "List": {
+    "List": "यादी",
+    "Coming soon": "लवकरच येत आहे"
+  },
+  "Cart": {
+    "Cart": "कार्ट",
+    "My Cart": "कार्ट",
+    "Customise": "सानुकूल करा",
+    "Delivery Address": "वितरण पत्ता",
+    "Change": "बदलणे",
+    "View Delivery Options": "वितरण पर्याय पहा",
+    "items": "वस्तु"
+  },
+  "Profile": {
+    "Profile": "आपण",
+    "My Profile": "माझे प्रोफाइल",
+    "Order History": "ऑर्डर इतिहास",
+    "Complaints": "तक्रारी",
+    "Choose Language": "भाषा निवडा",
+    "Logout": "बाहेर पडणे",
+    "View Delivery Options": "वितरण पर्याय पहा"
+  },
+  "Choose Language": {
+    "Hindi": "हिंदी",
+    "English": "English",
+    "Marathi": "मराठी",
+    "Choose Language": "भाषा निवडा",
+    "Select a language": "एक भाषा निवडा"
+  },
+  "Address List": {
+    "Delivery Address": "वितरण पत्ता",
+    "Add Address": "पत्ता जोडा"
+  },
+  "Categories": {
+    "Featured Categories": "वैशिष्ट्यीकृत श्रेणी",
+    "Fashion": "फॅशन",
+    "Grocery": "किराणा",
+    "Electronics": "इलेक्ट्रॉनिक्स",
+    "Food & Beverage": "अन्न आणि पेय",
+    "Home & Decor": "गृह सजावट",
+    "Health & Wellness": "आरोग्य आणि निरोगीपणा",
+    "Beauty & Personal Care": "सौंदर्य आणि वैयक्तिक काळजी",
+    "Agriculture": "शेती"
+  },
+  "Stores Near me": {
+    "Stores Near me": "माझ्या जवळची दुकाने"
+  },
+  "Empty Cart": {
+    "Your Cart is Empty. Please add items": "तुमची कार्ट रिकामी आहे. कृपया आयटम जोडा",
+    "Explore our wide selection and find something you like": "आमची विस्तृत निवड एक्सप्लोर करा आणि तुम्हाला आवडणारे काहीतरी शोधा",
+    "Explore Now": "आता एक्सप्लोर करा"
+  },
+  "Page": {
+    ", Go To Cart": ", कार्टवर जा",
+    "Item Added": "आयटम जोडला",
+    "Items Added": "आयटम जोडले"
+  },
+  "Fulfillment": {
+    "Choose delivery/pickup": "वितरण/पिकअप निवडा",
+    "Proceed to Pay": "पैसे देण्यासाठी पुढे जा",
+    "Item Total": "एकूण आयटम",
+    "Items Total": "एकूण आयटम",
+    "To Pay": "पैसे देणे",
+    "Items": "वस्तू",
+    "Qty": "एकूण"
+  },
+  "Featured Categories": {
+    "Featured Categories": "वैशिष्ट्यीकृत श्रेणी",
+    "Fashion": "फॅशन",
+    "Grocery": "किराणा",
+    "Electronics": "इलेक्ट्रॉनिक्स",
+    "Food & Beverage": "अन्न आणि पेय",
+    "Home & Decor": "गृह सजावट",
+    "Health & Wellness": "आरोग्य आणि निरोगीपणा",
+    "Beauty & Personal Care": "सौंदर्य आणि वैयक्तिक काळजी",
+    "Agriculture": "शेती",
+    "Appliances": "साधने"
+  },
+  "Product SubCategories": {
+    "Shop by Category": "श्रेणीनुसार खरेदी करा",
+    "Shop By Category": "श्रेणीनुसार खरेदी करा",
+    "Fruits and Vegetables": "फळे आणि भाज्या",
+    "Masala & Seasoning": "मसाला",
+    "Oil & Ghee": "तेल आणि तूप",
+    "Gourmet & World Foods": "गोरमेट आणि जागतिक खाद्यपदार्थ",
+    "Foodgrains": "अन्नधान्य",
+    "Eggs, Meat & Fish": "अंडी, मांस आणि मासे",
+    "Cleaning & Household": "स्वच्छता आणि घरगुती",
+    "Beverages": "शीतपेये",
+    "Beauty & Hygiene": "सौंदर्य आणि स्वच्छता",
+    "Bakery, Cakes & Dairy": "बेकरी, केक आणि दुग्धशाळा",
+    "Kitchen Accessories": "किचन ॲक्सेसरीज",
+    "Baby Care": "बाळ काळ",
+    "Snacks & Branded Foods": "स्नॅक्स आणि ब्रँडेड पदार्थ",
+    "Pet Care": "पाळीव प्राण्यांची काळ",
+    "Stationery": "स्टेशनरी"
+  },
+  "SubCategories": {
+    "Shop By Category": "श्रेणीनुसार खरेदी करा",
+    "Fruits and Vegetables": "फळे आणि भाजीपाला",
+    "Masala & Seasoning": "मसाला",
+    "Oil & Ghee": "तेल आणि तूप",
+    "Gourmet & World Foods": "गोरमेट आणि जागतिक खाद्यपदार्थ",
+    "Foodgrains": "अन्नधान्य",
+    "Eggs, Meat & Fish": "अंडी, मांस आणि मासे",
+    "Cleaning & Household": "स्वच्छता आणि घरगुती",
+    "Beverages": "शीतपेये"
+  },
+  "Store": {}
+}

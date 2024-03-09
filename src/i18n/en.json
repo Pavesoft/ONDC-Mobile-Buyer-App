@@ -29,11 +29,61 @@
     "Logout": "Logout"
   },
   "Choose Language": {
-    "Hindi": "Hindi",
-    "English": "English"
+    "Hindi": "हिंदी",
+    "English": "English",
+    "Marathi": "मराठी",
+    "Choose Language": "Choose Language",
+    "Select a language": "Select a language"
   },
   "Address List": {
     "Delivery Address": "Delivery Address",
-    "Add Address": "Add Address"
-  }
+    "Add Address": "Add Address",
+    "Add new address": "Add new address",
+    "Select a Delivery Address": "Select a Delivery Address",
+    "Saved Addresses": "Saved Addresses"
+  },
+  "Categories": {
+    "Fashion": "Fashion",
+    "Grocery": "Grocery",
+    "Electronics": "Electronics",
+    "Food & Beverage": "Food & Beverage",
+    "Home & Decor": "Home & Decor",
+    "Health & Wellness": "Health & Wellness",
+    "Beauty & Personal Care": "Beauty & Personal Care",
+    "Agriculture": "Agriculture"
+  },
+  "Stores Near me": {
+    "Stores Near me": "Stores Near me"
+  },
+  "Empty Cart": {
+    "Your Cart is Empty. Please add items": "Your Cart is Empty. Please add items",
+    "Explore our wide selection and find something you like": "Explore our wide selection and find something you like",
+    "Explore Now": "Explore Now"
+  },
+  "Page": {
+    ", Go To Cart": ", Go To Cart",
+    "Item Added": "Item Added",
+    "Items Added": "Items Added"
+  },
+  "Fulfillment": {
+    "Choose delivery/pickup": "Choose delivery/pickup",
+    "Proceed to Pay": "Proceed to Pay",
+    "Item Total": "Item Total",
+    "Items Total": "Items Total",
+    "To Pay": "To Pay",
+    "Items": "Items"
+  },
+  "Featured Categories": {
+    "Featured Categories": "Featured Categories",
+    "Fashion": "Fashion",
+    "Grocery": "Grocery",
+    "Electronics": "Electronics",
+    "Food & Beverage": "Food & Beverage",
+    "Home & Decor": "Home & Decor",
+    "Health & Wellness": "Health & Wellness",
+    "Beauty & Personal Care": "Beauty & Personal Care",
+    "Agriculture": "Agriculture",
+    "Appliances": "Appliances"
+  },
+  "Store": {}
 }

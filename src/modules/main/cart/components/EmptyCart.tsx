@@ -4,8 +4,10 @@ import {Button, Text} from 'react-native-paper';
 import {StyleSheet, View} from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useAppTheme} from '../../../../utils/theme';
+import {useTranslation} from 'react-i18next';
 
 const EmptyCart = () => {
+  const {t} = useTranslation();
   const {colors} = useAppTheme();
   const navigation = useNavigation<StackNavigationProp<any>>();
   const styles = makeStyles();
@@ -17,12 +19,16 @@ const EmptyCart = () => {
           color={colors.success600}
           size={90}
         />
-        <Text variant={'titleSmall'}>Your Cart is Empty. Please add items</Text>
+        <Text variant={'titleSmall'}>
+          {t('Empty Cart.Your Cart is Empty. Please add items')}
+        </Text>
         <Text variant="bodyMedium" style={styles.emptyDescription}>
-          Explore our wide selection and find something you like
+          {t(
+            'Empty Cart.Explore our wide selection and find something you like',
+          )}
         </Text>
         <Button mode={'outlined'} onPress={() => navigation.navigate('Home')}>
-          Explore Now
+          {t('Empty Cart.Explore Now')}
         </Button>
       </View>
     </View>

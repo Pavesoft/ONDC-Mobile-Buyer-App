@@ -31,10 +31,90 @@
   },
   "Choose Language": {
     "Hindi": "हिंदी",
-    "English": "English"
+    "English": "English",
+    "Marathi": "मराठी",
+    "Choose Language": "भाषा चुनें",
+    "Select a language": "किसी एक भाषा का चयन करें"
   },
   "Address List": {
     "Delivery Address": "डिलिवरी का पता",
-    "Add Address": "पता जोड़ें"
+    "Add Address": "पता जोड़ें",
+    "Add new address": "नया पता जोड़ें",
+    "Select a Delivery Address": "डिलीवरी पता चुनें  ",
+    "Saved Addresses": "सहेजे गए पते"
+  },
+  "Categories": {
+    "Fashion": "फ़ैशन",
+    "Grocery": "किराना",
+    "Electronics": "इलेक्ट्रानिक्स",
+    "Food & Beverage": "खाद्य और पेय",
+    "Home & Decor": "गृह सजावट",
+    "Health & Wellness": "स्वास्थ्य और कल्याण",
+    "Beauty & Personal Care": "सौंदर्य एवं व्यक्तिगत देखभाल",
+    "Agriculture": "कृषि"
+  },
+  "Stores Near me": {
+    "Stores Near me": "मेरे आस-पास के स्टोर"
+  },
+  "Empty Cart": {
+    "Your Cart is Empty. Please add items": "आपकी कार्ट खाली है। कृपया आइटम जोड़ें",
+    "Explore our wide selection and find something you like": "हमारे विस्तृत चयन का अन्वेषण करें और अपनी पसंद की कोई चीज़ ढूंढें",
+    "Explore Now": "अभी अन्वेषण करें"
+  },
+  "Page": {
+    ", Go To Cart": ", कार्ट पर जाना",
+    "Item Added": "आइटम जोड़ा गया",
+    "Items Added": "आइटम जोड़े गए"
+  },
+  "Fulfillment": {
+    "Choose delivery/pickup": "डिलीवरी/पिकअप चुनें",
+    "Proceed to Pay": "भुगतान करने के लिए आगे बढ़ें",
+    "Item Total": "आइटम का कुल",
+    "Items Total": "आइटम कुल",
+    "To Pay": "भुगतान करने के लिए",
+    "Items": "आइटम",
+    "Qty": "कुल"
+  },
+  "Featured Categories": {
+    "Featured Categories": "विशेष श्रेणियाँ",
+    "Fashion": "फ़ैशन",
+    "Grocery": "किराना",
+    "Electronics": "इलेक्ट्रानिक्स",
+    "Food & Beverage": "खाद्य और पेय",
+    "Home & Decor": "गृह सजावट",
+    "Health & Wellness": "स्वास्थ्य और कल्याण",
+    "Beauty & Personal Care": "सौंदर्य एवं व्यक्तिगत देखभाल",
+    "Agriculture": "कृषि",
+    "Appliances": "उपकरण"
+  },
+  "Product SubCategories": {
+    "Shop by Category": "वर्गों के अनुसार खरीदारी",
+    "Shop By Category": "वर्गों के अनुसार खरीदारी",
+    "Fruits and Vegetables": "फल सब्जियां",
+    "Masala & Seasoning": "मसाला",
+    "Oil & Ghee": "तेल / घी",
+    "Gourmet & World Foods": "स्वादिष्ट एवं विश्व खाद्य पदार्थ",
+    "Foodgrains": "अनाज",
+    "Eggs, Meat & Fish": "अंडे, मांस और मछली",
+    "Cleaning & Household": "सफ़ाई एवं घरेलू कार्य",
+    "Beverages": "पेय",
+    "Beauty & Hygiene": "सौंदर्य स्वच्छता",
+    "Bakery, Cakes & Dairy": "बेकरी, केक और डेयरी",
+    "Kitchen Accessories": "रसोई की सहायक सामग्री",
+    "Baby Care": "शिशु के देखभाल",
+    "Snacks & Branded Foods": "नाश्ता और ब्रांडेड खाद्य पदार्थ",
+    "Pet Care": "पालतू जानवरों की देखभाल  ",
+    "Stationery": "लेखन सामग्री"
+  },
+  "SubCategories": {
+    "Shop By Category": "वर्गों के अनुसार खरीदारी",
+    "Fruits and Vegetables": "फल सब्जियां",
+    "Masala & Seasoning": "मसाला",
+    "Oil & Ghee": "तेल / घी",
+    "Gourmet & World Foods": "स्वादिष्ट एवं विश्व खाद्य पदार्थ",
+    "Foodgrains": "अनाज",
+    "Eggs, Meat & Fish": "अंडे, मांस और मछली",
+    "Cleaning & Household": "सफ़ाई एवं घरेलू कार्य",
+    "Beverages": "पेय"
   }
 }
