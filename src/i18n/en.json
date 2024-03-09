@@ -85,5 +85,35 @@
     "Agriculture": "Agriculture",
     "Appliances": "Appliances"
   },
+  "Product SubCategories": {
+    "Shop by Category": "Shop by Category",
+    "Shop By Category": "Shop By Category",
+    "Fruits and Vegetables": "Fruits and Vegetables",
+    "Masala & Seasoning": "Masala & Seasoning",
+    "Oil & Ghee": "Oil & Ghee",
+    "Gourmet & World Foods": "Gourmet & World Foods",
+    "Foodgrains": "Foodgrains",
+    "Eggs, Meat & Fish": "Eggs, Meat & Fish",
+    "Cleaning & Household": "Cleaning & Household",
+    "Beverages": "Beverages",
+    "Beauty & Hygiene": "Beauty & Hygiene",
+    "Bakery, Cakes & Dairy": "Bakery, Cakes & Dairy",
+    "Kitchen Accessories": "Kitchen Accessories",
+    "Baby Care": "Baby Care",
+    "Snacks & Branded Foods": "Snacks & Branded Foods",
+    "Pet Care": "Pet Care",
+    "Stationery": "Stationery"
+  },
+  "SubCategories": {
+    "Shop By Category": "Shop By Category",
+    "Fruits and Vegetables": "Fruits and Vegetables",
+    "Masala & Seasoning": "Masala & Seasoning",
+    "Oil & Ghee": "Oil & Ghee",
+    "Gourmet & World Foods": "Gourmet & World Foods",
+    "Foodgrains": "Foodgrains",
+    "Eggs, Meat & Fish": "Eggs, Meat & Fish",
+    "Cleaning & Household": "Cleaning & Household",
+    "Beverages": "Beverages"
+  },
   "Store": {}
 }
