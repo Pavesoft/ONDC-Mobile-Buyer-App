@@ -122,7 +122,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="MyProfile"
           component={Profile}
           options={{
-            title: 'My Profile',
+            title: t('Profile.My Profile'),
           }}
         />
 
@@ -138,7 +138,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="Complaints"
           component={Complaints}
           options={{
-            title: 'Complaints',
+            title: t('Profile.Complaints'),
           }}
         />
 
@@ -154,7 +154,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="Orders"
           component={Orders}
           options={{
-            title: 'Order History',
+            title: t('Profile.Order History'),
           }}
         />
 

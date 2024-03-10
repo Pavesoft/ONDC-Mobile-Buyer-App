@@ -63,7 +63,7 @@ const SubCategories: React.FC<SubCategories> = ({currentCategory}) => {
                 style={styles.brandImage}
               />
               <Text variant={'labelLarge'} style={styles.name}>
-                {t(`SubCategories.${item.key}`)}
+                {t(`Product SubCategories.${item.key}`)}
               </Text>
             </TouchableOpacity>
           ))}

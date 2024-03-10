@@ -33,6 +33,6 @@ i18n
 console.log(i18n);
 
 // @TODO: Add logic to change language based on Async storage value
-i18n.changeLanguage('hi');
+i18n.changeLanguage('en');
 
 export default i18n;
