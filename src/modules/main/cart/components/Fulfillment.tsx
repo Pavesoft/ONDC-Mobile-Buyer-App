@@ -129,13 +129,15 @@ const Fulfillment: React.FC<Fulfillment> = ({
                 </View>
               ))}
               <Text variant={'labelMedium'} style={styles.errorMessage}>
-                Please try ordering from another store or try again later
+                {t(
+                  'Fulfillment.Please try ordering from another store or try again later',
+                )}
               </Text>
               <TouchableOpacity
                 style={styles.button}
                 onPress={exploreOtherStores}>
                 <Text variant={'labelLarge'} style={styles.buttonLabel}>
-                  Explore Other Stores
+                  {t('Fulfillment.Explore Other Stores')}
                 </Text>
               </TouchableOpacity>
             </View>
