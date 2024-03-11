@@ -51,12 +51,25 @@
     "Veg": "Veg",
     "Non Veg": "Non Veg",
     "Required": "Required",
-    "Available On COD": "Available On Cod",
+    "Available on COD": "Available On Cod",
     "Cancellable": "Cancellable",
-    "Return Window Value": "Return Window Value",
+    "Return window value": "Return Window Value",
     "Returnable": "Returnable",
     "Customer care": "Customer Care",
-    "All Options": "All Options"
+    "Manufacturer name": "Manufacturer name",
+    "Manufacturer address": "Manufacturer address",
+    "All Options": "All Options",
+    "Edit": "Edit",
+    "Outlet Details": {
+      "Get Direction": "Get Direction",
+      "Call Now": "Call Now",
+      "Open now": "Open now"
+    },
+    "FBProduct": {
+      "Add": "Add",
+      "Out of stock": "Out of stock",
+      "Customizable": "Customizable"
+    }
   },
   "Profile": {
     "Profile": "Profile",
@@ -65,7 +78,9 @@
     "Complaints": "Complaints",
     "Choose Language": "Choose Language",
     "Logout": "Logout",
-    "No data found": "No data found"
+    "No data found": "No data found",
+    "Are you sure you want to logout?": "Are you sure you want to logout",
+    "Cancel": "Cancel"
   },
   "Choose Language": {
     "Hindi": "हिंदी",

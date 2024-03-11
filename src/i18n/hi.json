@@ -53,10 +53,23 @@
     "Required": "आवश्यक",
     "Available on COD": "कैश ऑन डिलीवरी पर उपलब्ध",
     "Cancellable": "रद्द किया जा सकता है",
-    "Return window value": "वापसी की अवधि मूल्य",
+    "Return Window Value": "वापसी की अवधि मूल्य",
     "Returnable": "वापसी योग्य",
     "Customer care": "ग्राहक सेवा",
-    "All Options": "सभी विकल्प"
+    "Manufacturer name": "निर्माता का नाम",
+    "Manufacturer address": "निर्माता का पता",
+    "All Options": "सभी विकल्प",
+    "Edit": "संपादित करें",
+    "Outlet Details": {
+      "Get Direction": "दिशा प्राप्त करें",
+      "Call Now": "अभी कॉल करें",
+      "Open now": "अभी खुला है"
+    },
+    "FBProduct": {
+      "Add": "जोड़ें",
+      "Out of stock": "स्टॉक में नहीं है",
+      "Customizable": "अनुकूलनीय"
+    }
   },
   "Profile": {
     "Profile": "आप",
@@ -66,7 +79,9 @@
     "Choose Language": "भाषा चुनें",
     "Logout": "लॉग आउट",
     "View Delivery Options": "डिलिवरी विकल्प देखें",
-    "No data found": "डाटा प्राप्त नहीं हुआ"
+    "No data found": "डाटा प्राप्त नहीं हुआ",
+    "Are you sure you want to logout?": "क्या आप वाकई लॉगआउट करना चाहते हैं?",
+    "Cancel": "रद्द करें"
   },
   "Choose Language": {
     "Hindi": "हिंदी",

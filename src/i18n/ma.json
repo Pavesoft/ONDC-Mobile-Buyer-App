@@ -56,7 +56,20 @@
     "Return Window Value": "परत देण्याची विंडो मूल्य",
     "Returnable": "परत देण्यायोग्य",
     "Customer care": "ग्राहक सेवा",
-    "All Options": "सर्व पर्याय"
+    "Manufacturer name": "निर्माता नाव",
+    "Manufacturer address": "निर्माता पत्ता",
+    "All Options": "सर्व पर्याय",
+    "Edit": "संपादित करा",
+    "Outlet Details": {
+      "Get Direction": "दिशा मिळवा",
+      "Call Now": "आता कॉल करा",
+      "Open now": "आता उघडले आहे"
+    },
+    "FBProduct": {
+      "Add": "जोडा",
+      "Out of stock": "स्टॉकमध्ये नाही",
+      "Customizable": "सानुकूलीय"
+    }
   },
   "Profile": {
     "Profile": "आपण",
@@ -66,7 +79,9 @@
     "Choose Language": "भाषा निवडा",
     "Logout": "बाहेर पडणे",
     "View Delivery Options": "वितरण पर्याय पहा",
-    "No data found": "माहिती आढळली नाही"
+    "No data found": "माहिती आढळली नाही",
+    "Are you sure you want to logout?": "तुम्ही लॉगआउट करू इच्छिता का?",
+    "Cancel": "रद्द करा"
   },
   "Choose Language": {
     "Hindi": "हिंदी",
@@ -304,7 +319,7 @@
     "Diabetes Control": "मधुमेह नियंत्रण",
     "Ayush": "आयुष",
     "Bath & Body": "स्नान आणि शरीर",
-    "Feminine Care": "स्त्री देखभाल",
+    "Feminine Care": "स्त्रीलिंगी काळजी",
     "Fragrance": "आरोग्यदायी वास",
     "Hair Care": "केस साठी काळजी",
     "Make Up": "मेक अप",

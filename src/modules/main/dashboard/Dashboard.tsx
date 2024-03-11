@@ -28,11 +28,11 @@ const Dashboard: React.FC<Dashboard> = () => {
         }}
         initialRouteName="Home"
         tabBar={props => <CustomTabBar {...props} />}>
-        <Tab.Screen name={t('Home.Home')} component={Home} />
-        <Tab.Screen name={t('List.List')} component={List} />
+        <Tab.Screen name="Home" component={Home} />
+        <Tab.Screen name="List" component={List} />
         {/* <Tab.Screen name={t('Cart.Cart')} component={DashboardCart} /> */}
         <Tab.Screen name="Cart" component={DashboardCart} />
-        <Tab.Screen name={t('Profile.Profile')} component={Profile} />
+        <Tab.Screen name="Profile" component={Profile} />
       </Tab.Navigator>
     </>
   );

@@ -17,11 +17,11 @@ const Profile = () => {
 
   const confirmLogout = () => {
     alertWithTwoButtons(
-      'Logout',
-      'Are you sure you want to logout?',
-      'Cancel',
+      t('Profile.Logout'),
+      t('Profile.Are you sure you want to logout?'),
+      t('Profile.Cancel'),
       () => {},
-      'Logout',
+      t('Profile.Logout'),
       () => clearDataAndLogout(),
     );
   };
