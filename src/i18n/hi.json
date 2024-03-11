@@ -30,7 +30,10 @@
     "View All": "सभी को देखें",
     "Stores Near Me": "मेरे आस-पास के स्टोर",
     "Deliver to": "पहुंचा देना",
-    "Search": "खोज"
+    "Search": "खोज",
+    "Search Product List": {
+      "No products available": "कोई उत्पाद उपलब्ध नहीं है"
+    }
   },
   "List": {
     "List": "सूची",
@@ -69,6 +72,18 @@
       "Add": "जोड़ें",
       "Out of stock": "स्टॉक में नहीं है",
       "Customizable": "अनुकूलनीय"
+    },
+    "Filter List": {
+      "Filters": "फ़िल्टर",
+      "Clear all": "सभी को हटाएं",
+      "Close": "बंद करें",
+      "Apply": "लागू करें"
+    },
+    "Payment": {
+      "Select Payment Option": "भुगतान विकल्प चुनें",
+      "Cash on delivery": "डिलीवरी पर नकद",
+      "Prepaid": "प्रीपेड",
+      "Proceed to Buy": "खरीददारी करने के लिए आगे बढ़ें"
     }
   },
   "Profile": {

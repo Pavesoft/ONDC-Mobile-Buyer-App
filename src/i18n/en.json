@@ -30,7 +30,10 @@
     "View All": "View All",
     "Stores Near Me": "Stores Near Me",
     "Deliver to": "Deliver to",
-    "Search": "Search"
+    "Search": "Search",
+    "Search Product List": {
+      "No products available": "No products available"
+    }
   },
   "List": {
     "List": "List",
@@ -69,6 +72,18 @@
       "Add": "Add",
       "Out of stock": "Out of stock",
       "Customizable": "Customizable"
+    },
+    "Filter List": {
+      "Filters": "Filters",
+      "Clear all": "Clear all",
+      "Close": "Close",
+      "Apply": "Apply"
+    },
+    "Payment": {
+      "Select Payment Option": "Select Payment Option",
+      "Cash on delivery": "Cash on delivery",
+      "Prepaid": "Prepaid",
+      "Proceed to Buy": "Proceed to Buy"
     }
   },
   "Profile": {
