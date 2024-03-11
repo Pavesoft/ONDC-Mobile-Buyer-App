@@ -24,6 +24,7 @@ import {
 import {getStoredData, setStoredData} from '../../../../utils/storage';
 import CloseSheetContainer from '../../../../components/bottomSheet/CloseSheetContainer';
 import {useAppTheme} from '../../../../utils/theme';
+import {useTranslation} from 'react-i18next';
 
 interface Payment {
   productsQuote: any;
@@ -60,6 +61,7 @@ const Payment: React.FC<Payment> = ({
   handleConfirmOrder,
   confirmOrderLoading,
 }) => {
+  const {t} = useTranslation();
   const theme = useAppTheme();
   const {token, transaction_id} = useSelector(({authReducer}) => authReducer);
   const {getDataWithAuth, postDataWithAuth} = useNetworkHandling();
@@ -292,7 +294,7 @@ const Payment: React.FC<Payment> = ({
       <View>
         <View style={styles.header}>
           <Text variant={'titleLarge'} style={styles.title}>
-            Select Payment Option
+            {t('Cart.Payment.Select Payment Option')}
           </Text>
         </View>
         <View style={styles.paymentContainer}>
@@ -311,7 +313,7 @@ const Payment: React.FC<Payment> = ({
                 style={styles.paymentImage}
               />
               <Text variant={'bodyMedium'} style={styles.paymentOptionText}>
-                Cash on delivery
+                {t('Cart.Payment.Cash on delivery')}
               </Text>
             </View>
           </TouchableOpacity>
@@ -331,7 +333,7 @@ const Payment: React.FC<Payment> = ({
                 style={styles.paymentImage}
               />
               <Text variant={'bodyMedium'} style={styles.paymentOptionText}>
-                Prepaid
+                {t('Cart.Payment.Prepaid')}
               </Text>
             </View>
           </TouchableOpacity>
@@ -354,7 +356,7 @@ const Payment: React.FC<Payment> = ({
               )
             }
             onPress={handleConfirmOrder}>
-            Proceed to Buy
+            {t('Cart.Payment.Proceed to Buy')}
           </Button>
         </View>
       </View>
