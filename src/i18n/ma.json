@@ -1,4 +1,29 @@
 {
+  "Sign In": {
+    "Please enter details to sign in": "साइन इन करण्यासाठी तपशील द्या",
+    "Email Address": "ईमेल पत्ता",
+    "Phone No.": "फोन नंबर",
+    "Password": "पासवर्ड",
+    "Forgot Password": "पासवर्ड विसरलात",
+    "Sign In": "साइन इन करा",
+    "Don't have an account": "खाते नाही का?",
+    "Terms and Conditions": "अटी",
+    "Please enter details to register": "कृपया नोंदणीसाठी माहिती प्रविष्ट करा",
+    "By Signing to mobile app. I accept all the": "मोबाइल अ‍ॅपमध्ये साइन इन करून, मी सर्वांनी स्वीकार केले आहे"
+  },
+  "Sign Up": {
+    "Full Name": "पूर्ण नाव",
+    "Please enter details to sign in": "साइन इन करण्यासाठी तपशील द्या",
+    "Email Address": "ईमेल पत्ता",
+    "Phone No.": "फोन नंबर",
+    "Password": "पासवर्ड",
+    "Forgot Password": "पासवर्ड विसरलात",
+    "Sign In": "साइन इन करा",
+    "Don't have an account ?": "खाते नाही का?",
+    "Terms and Conditions": "अटी",
+    "Please enter details to register": "कृपया नोंदणीसाठी माहिती प्रविष्ट करा",
+    "By Signing to mobile app. I accept all the": "मोबाइल अ‍ॅपमध्ये साइन इन करून, मी सर्वांनी स्वीकार केले आहे"
+  },
   "Home": {
     "Home": "होम",
     "Featured Categories": "वैशिष्ट्यीकृत श्रेणी",
@@ -18,7 +43,9 @@
     "Delivery Address": "वितरण पत्ता",
     "Change": "बदलणे",
     "View Delivery Options": "वितरण पर्याय पहा",
-    "items": "वस्तु"
+    "items": "वस्तु",
+    "Add to cart": "कार्टमध्ये जोडा",
+    "Product Details": "उत्पादचे तपशील"
   },
   "Profile": {
     "Profile": "आपण",
