@@ -45,7 +45,17 @@
     "View Delivery Options": "View Delivery Options",
     "items": "items",
     "Add to cart": "Add to cart",
-    "Product Details": "Product Details"
+    "Product Details": "Product Details",
+    "Select any": "Select any",
+    "options": "options",
+    "Veg": "Veg",
+    "Non Veg": "Non Veg",
+    "Required": "Required",
+    "Available On COD": "Available On Cod",
+    "Cancellable": "Cancellable",
+    "Return Window Value": "Return Window Value",
+    "Returnable": "Returnable",
+    "Customer care": "Customer Care"
   },
   "Profile": {
     "Profile": "Profile",

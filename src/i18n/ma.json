@@ -45,7 +45,17 @@
     "View Delivery Options": "वितरण पर्याय पहा",
     "items": "वस्तु",
     "Add to cart": "कार्टमध्ये जोडा",
-    "Product Details": "उत्पादचे तपशील"
+    "Product Details": "उत्पादचे तपशील",
+    "Select any": "कोणतेही निवडा",
+    "options": "पर्याय",
+    "Veg": "शाकाहारी",
+    "Non Veg": "नॉन व्हेज",
+    "Required": "आवश्यक",
+    "Available on COD": "कॅश ऑन डिलीव्हरीवर उपलब्ध",
+    "Cancellable": "रद्द करण्यायोग्य",
+    "Return Window Value": "परत देण्याची विंडो मूल्य",
+    "Returnable": "परत देण्यायोग्य",
+    "Customer care": "ग्राहक सेवा"
   },
   "Profile": {
     "Profile": "आपण",

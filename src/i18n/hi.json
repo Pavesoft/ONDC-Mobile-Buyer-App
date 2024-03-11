@@ -45,7 +45,17 @@
     "View Delivery Options": "डिलिवरी विकल्प देखें",
     "items": "वस्तु",
     "Add to cart": "कार्ट में जोड़ें",
-    "Product Details": "उत्पाद विवरण"
+    "Product Details": "उत्पाद विवरण",
+    "Select any": "कोई चुनें",
+    "options": "विकल्प",
+    "Veg": "शाकाहारी",
+    "Non Veg": "नॉन वेज",
+    "Required": "आवश्यक",
+    "Available on COD": "कैश ऑन डिलीवरी पर उपलब्ध",
+    "Cancellable": "रद्द किया जा सकता है",
+    "Return window value": "वापसी की अवधि मूल्य",
+    "Returnable": "वापसी योग्य",
+    "Customer care": "ग्राहक सेवा"
   },
   "Profile": {
     "Profile": "आप",
