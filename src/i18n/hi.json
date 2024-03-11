@@ -44,6 +44,19 @@
     "Select a Delivery Address": "डिलीवरी पता चुनें  ",
     "Saved Addresses": "सहेजे गए पते"
   },
+  "Address Form": {
+    "Add Address": "पता जोड़ें",
+    "Name": "नाम",
+    "Email": "ईमेल",
+    "Mobile Number": "मोबाइल नंबर",
+    "Building": "इमारत",
+    "Street": "सड़क",
+    "Pin Code": "पिन कोड",
+    "City": "शहर",
+    "State": "राज्य",
+    "Address Type": "पता प्रकार",
+    "Save": "सहेजें"
+  },
   "Categories": {
     "Fashion": "फ़ैशन",
     "Grocery": "किराना",

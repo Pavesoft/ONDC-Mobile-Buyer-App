@@ -43,6 +43,19 @@
     "Select a Delivery Address": "Select a Delivery Address",
     "Saved Addresses": "Saved Addresses"
   },
+  "Address Form": {
+    "Add Address": "Add Address",
+    "Name": "Name",
+    "Email": "Email",
+    "Mobile Number": "Mobile Number",
+    "Building": "Building",
+    "Street": "Street",
+    "Pin Code": "Pin Code",
+    "City": "City",
+    "State": "State",
+    "Address Type": "Address Type",
+    "Save": "Save"
+  },
   "Categories": {
     "Fashion": "Fashion",
     "Grocery": "Grocery",

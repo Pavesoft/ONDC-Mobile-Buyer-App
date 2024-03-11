@@ -41,6 +41,19 @@
     "Delivery Address": "वितरण पत्ता",
     "Add Address": "पत्ता जोडा"
   },
+  "Address Form": {
+    "Add Address": "पत्ता जोडा",
+    "Name": "नाव",
+    "Email": "ईमेल",
+    "Mobile Number": "मोबाइल नंबर",
+    "Building": "इमारत",
+    "Street": "रस्ता",
+    "Pin Code": "पिन कोड",
+    "City": "शहर",
+    "State": "राज्य",
+    "Address Type": "पत्ता प्रकार",
+    "Save": "संचयित करा"
+  },
   "Categories": {
     "Featured Categories": "वैशिष्ट्यीकृत श्रेणी",
     "Fashion": "फॅशन",

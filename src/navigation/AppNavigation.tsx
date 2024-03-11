@@ -99,7 +99,7 @@ const AppNavigation: React.FC<AppNavigation> = ({navigationRef}) => {
           name="AddDefaultAddress"
           component={AddDefaultAddress}
           options={{
-            title: 'Add Address',
+            title: t('Address Form.Add Address'),
           }}
         />
         <Stack.Screen
