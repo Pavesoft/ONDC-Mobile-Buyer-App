@@ -55,7 +55,8 @@
     "Cancellable": "रद्द करण्यायोग्य",
     "Return Window Value": "परत देण्याची विंडो मूल्य",
     "Returnable": "परत देण्यायोग्य",
-    "Customer care": "ग्राहक सेवा"
+    "Customer care": "ग्राहक सेवा",
+    "All Options": "सर्व पर्याय"
   },
   "Profile": {
     "Profile": "आपण",
@@ -139,6 +140,8 @@
     "Appliances": "साधने"
   },
   "Product SubCategories": {
+    "Search": "शोधा",
+    "Filter": "फिल्टर",
     "Shop by Category": "श्रेणीनुसार खरेदी करा",
     "Shop By Category": "श्रेणीनुसार खरेदी करा",
     "Fruits and Vegetables": "फळे आणि भाज्या",

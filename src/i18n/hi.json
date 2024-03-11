@@ -55,7 +55,8 @@
     "Cancellable": "रद्द किया जा सकता है",
     "Return window value": "वापसी की अवधि मूल्य",
     "Returnable": "वापसी योग्य",
-    "Customer care": "ग्राहक सेवा"
+    "Customer care": "ग्राहक सेवा",
+    "All Options": "सभी विकल्प"
   },
   "Profile": {
     "Profile": "आप",
@@ -141,6 +142,8 @@
     "Appliances": "उपकरण"
   },
   "Product SubCategories": {
+    "Search": "खोज",
+    "Filter": "फ़िल्टर",
     "Shop by Category": "वर्गों के अनुसार खरीदारी",
     "Shop By Category": "वर्गों के अनुसार खरीदारी",
     "Fruits and Vegetables": "फल सब्जियां",
