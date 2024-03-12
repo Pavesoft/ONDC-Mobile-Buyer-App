@@ -56,7 +56,7 @@ const AboutProduct = ({product}: {product: any}) => {
         return (
           <View style={styles.aboutRow} key={key}>
             <Text variant="bodyMedium" style={styles.aboutTitle}>
-              {t(`Cart.${key}`)}
+              {key}
             </Text>
             <View style={styles.aboutSeparator} />
             <Text variant="bodyMedium" style={styles.aboutDetails}>
