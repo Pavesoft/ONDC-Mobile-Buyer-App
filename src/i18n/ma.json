@@ -89,7 +89,18 @@
     "View Delivery Options": "वितरण पर्याय पहा",
     "No data found": "माहिती आढळली नाही",
     "Are you sure you want to logout?": "तुम्ही लॉगआउट करू इच्छिता का?",
-    "Cancel": "रद्द करा"
+    "Cancel": "रद्द करा",
+    "Get Status": "स्थिती मिळवा",
+    "Track": "ट्रॅक",
+    "Order placed on": "ऑर्डर दिनांक",
+    "Shipment Details": "शिपमेंट विवरण",
+    "Payment Methods": "भुक्तान पद्धती",
+    "Shipping Address": "शिपिंग पत्ता",
+    "Raise Issue": "समस्या उच्चारण",
+    "Cancellable": "रद्द करण्यायोग्य",
+    "Non-cancellable": "रद्द करू शकत नाही",
+    "Returnable": "परत केल्या जाऊ शकतात",
+    "Non-returnable": "परत केल्या जाऊ शकत नाही"
   },
   "Choose Language": {
     "Hindi": "हिंदी",
@@ -356,6 +367,5 @@
     "Eggs, Meat & Fish": "अंडी, मांस आणि मासे",
     "Cleaning & Household": "स्वच्छता आणि घरगुती",
     "Beverages": "शीतपेये"
-  },
-  "Store": {}
+  }
 }

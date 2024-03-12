@@ -89,7 +89,18 @@
     "View Delivery Options": "डिलिवरी विकल्प देखें",
     "No data found": "डाटा प्राप्त नहीं हुआ",
     "Are you sure you want to logout?": "क्या आप वाकई लॉगआउट करना चाहते हैं?",
-    "Cancel": "रद्द करें"
+    "Cancel": "रद्द करें",
+    "Get Status": "स्थिति प्राप्त करें",
+    "Track": "ट्रैक",
+    "Order placed on": "आदेश दिनांक",
+    "Shipment Details": "शिपमेंट विवरण",
+    "Payment Methods": "भुगतान पद्धतियाँ",
+    "Shipping Address": "शिपिंग पता",
+    "Raise Issue": "समस्या उठाएं",
+    "Cancellable": "रद्द किया जा सकता है",
+    "Non-cancellable": "रद्द नहीं किया जा सकता",
+    "Returnable": "वापस किया जा सकता है",
+    "Non-returnable": "वापस नहीं किया जा सकता"
   },
   "Choose Language": {
     "Hindi": "हिंदी",
